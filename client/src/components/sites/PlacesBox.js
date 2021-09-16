@@ -1,44 +1,28 @@
-import React, { useEffect, useState } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
 import { useParams } from 'react-router';
 import './body.scss'
 import { GridItem } from './gridItem/GridItem';
 import './places.scss'
 import { ItemHeader } from './gridItem/ItemHeader'
-import axios from 'axios'
+import { PlacesContext } from '../../context/PlacesContext';
 
 export function PlacesBox(props) {
 
     let id = useParams()
-    const [placesList, setPlacesList] = useState([])
-    const [placeSelected, setPlaceSelected] = useState({
-        img: 'https://i.postimg.cc/qMxCfX5N/coffe-shop.jpg', 
-        name: 'Lobo',
-        city: 'Buenos Aires',
-        country: 'Argentina',
-        id: '2',
-        ranking: '7.0',
-        wifi: 'cheto',
-        lenguaje: 'Espanol',
-        food: '7'
-    });
+    const placesList = useContext(PlacesContext)
+    const [placeSelected, setPlaceSelected] = useState({});
 
     useEffect(() => {
-        // axios.get('http://localhost:8080/api/places')
-        //     .then(res => {
-        //         const places = res.data;
-        //         console.log(places.data)
-        //         setPlacesList(places.data)
-                filterPlacesFunction(id)
-        //     })
+        filterPlacesFunction(id)
     }, []);
 
     const filterPlacesFunction = (id) => {
-        const filtredPlace = placesList.filter(places => {
+        const filtredPlace = placesList.places.data.filter(places => {
             console.log(places.id)
             return places.id === id.id
         })
-        setPlaceSelected(filtredPlace)
-        console.log(filtredPlace)
+        setPlaceSelected(filtredPlace[0].data)
+        console.log(filtredPlace[0].data)
     }
 
 
