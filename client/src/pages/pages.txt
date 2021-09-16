@@ -1,0 +1,7 @@
+Demo llama a 
+<NavBar/>
+<GridOptions/>
+<PlacesBox/>
+
+para poder visualizar el item seleccionado, depende de la ruta '/lugares/:id'
+a traves de params se llama al lugar que corresponde

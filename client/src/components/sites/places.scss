@@ -1,0 +1,160 @@
+
+
+.places{
+    border-radius: 2.7vw;
+    width: 80%;
+    height: 100vw;
+    border: 0.1px solid grey;
+    background-color: white;
+    box-sizing: border-box;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    pointer-events: none;
+}
+
+.placeContainer{
+    margin-top: -100%;
+    padding: 10%;
+
+}
+
+.imgItem{
+    border-radius: 2.7vw;
+    margin-top: 5%;
+    height: 40%;
+    width: 90%;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
+    object-fit: cover;
+
+}
+
+.header {
+    column-count: 2;
+    margin-bottom: 5%;
+}
+
+.headerText{
+    display: inline-block;
+    margin-left: 9vw;
+    
+}
+
+.placesTitle{
+    font-size: 7vw;
+    padding-right: 45%;
+    color: #212427;
+    text-align: left;
+    display:inline;
+    font-family: 'Oswald'; 
+    font-weight: bold;
+    text-shadow: 0px 2px 2px rgba(255, 255, 255, 0);
+}
+
+.placesSubTitle{
+    font-size: 3vw;
+    text-align: left;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.rankingItem{
+    padding-top: 10%;
+    color: #212427;
+    display: right;
+    font-weight: 700;
+    font-size: 5vw;
+    font-family: 'Roboto';
+
+}
+
+.items {
+    float: left;
+    column-count: 2;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    align-items: center;
+    font-size: 2vw;
+
+
+    color: #000000;
+}
+
+.itemsText{
+    font-size: 2vw;
+    display:inline;
+}
+
+.roundedRectangle {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0.5vw;
+    height: 3vw;
+    width: 15vw;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 55px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: bold;
+    font-size: auto;
+    align-items: center;
+    
+
+    color: #000000;
+
+}
+
+@media (max-width: 1300px) {
+
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+    
+}
+
+@media (max-width: 574px) {
+    .imgItem{
+        height: 25%;
+        
+    }
+
+
+    .places{
+        height: 110%;
+        
+    }
+
+    .items{
+        margin-left: 0;
+    }
+
+    .itemsText{
+        font-size: 3vw;
+        font-weight: bold;
+    }
+    
+    .roundedRectangle {
+        height: 5vw;
+        width: 35vw;
+        font-size: 2.5vw;
+    }
+}
+
+@media (max-width: 360px) {
+    .places{
+        height: 80%;    
+    }
+}
+
+@media (max-width: 360px) {
+    
+}
