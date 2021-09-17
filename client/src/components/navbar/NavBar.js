@@ -2,6 +2,9 @@ import './NavBar.scss'
 import React from 'react';
 import { useState } from 'react';
 import Hamburger from "./hamburger";
+import afuera from "../../assets/bakery.jpg"
+import logo from "../../assets/logo.png"
+import { Link } from 'react-router-dom';
 
 
 function NavBar() {
@@ -15,11 +18,18 @@ function NavBar() {
         return (
         <div>        
             <nav className='navbar'>
-                <img className='navBarBackgroundImage' src='https://i.postimg.cc/tJ7Z470h/image.png' alt='coffee' />
-                <img className='logo' src='https://i.postimg.cc/RFhmtsP6/logo512.png' alt='coffee' />
+                <img className='navBarBackgroundImage' src={afuera} alt='coffee' />
+                <div className="header"></div>
+                <Link to={"./"}><img className='logo' src={logo} alt='coffee' /></Link>
                 <div className="hamburger" onClick={toggleHamburger}>
-                        <Hamburger isOpen={hamburgerOpen}/>
+                <Hamburger isOpen={hamburgerOpen}/>
                 </div>
+                  
+            <div className='topBar'>
+                <span className='slogan'>Hacela <br/> NUESTRA oficina</span>
+                <div className='ubicacion'>Buenos Aires, Argentina</div>
+                {/* <SearchBar/> */}
+            </div>   
             </nav>
           
         </div>

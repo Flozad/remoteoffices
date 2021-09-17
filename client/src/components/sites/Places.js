@@ -11,10 +11,10 @@ function Places(props) {
                     <img className='placeImg' src = {props.img} alt = {props.name}/>
                     
                     <div className='title'>
-                        <h3 class="city">{props.city}</h3>
-                        <h3 class="ranking">{props.rating}</h3>
+                        <h3 className="city">{props.city}</h3>
+                        <h3 className="ranking">{props.rating}</h3>
                     </div>
-                    <h2 class="name" itemprop="name">{props.name}</h2>
+                    <h2 className="name" itemprop="name">{props.name}</h2>
                     
                 </div> 
                 

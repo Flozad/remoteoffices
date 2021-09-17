@@ -1,7 +1,6 @@
 import React, {useEffect, useContext} from 'react';
 import './body.scss'
 import Places from './Places.js'
-import { SearchBar } from './SearchBar';
 import { PlacesContext } from '../../context/PlacesContext';
 
 function GridOptions() {
@@ -15,12 +14,7 @@ function GridOptions() {
         }, []);
         
         return (
-        <div className='body'>
-            <div className='ubicacion'>Buenos Aires, Argentina</div>  
-            <div className='topBar'>
-                <div className='slogan'>Hacela NUESTRA oficina</div>
-                <SearchBar/>
-            </div>          
+            <div className='body'>       
             <ul className='grid'>
             {
                 placesList.places.data !== undefined ? placesList.places.data.map((place) => (

@@ -7,8 +7,10 @@ function HomePage() {
   return (
     <div>
       <Helmet>
-        <title>My Title</title>
+        <title>RemoteOffices</title>
         <meta name="description" content="{smallText}"  />
+        <link href="../../assets/logo.png" rel="Logo"/>
+        <link href="../../assets/logo.png" rel="icon"/>
       </Helmet>
       <NavBar/>
       <GridOptions/>

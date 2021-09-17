@@ -4,8 +4,8 @@
 
 
 //fonts
-$font-primary: 'Roboto';
-$font-secondary: 'Oswald';
+$font-primary: 'Oswald', Sans-Serif;
+$font-secondary: 'Quattrocento', Serif;
 $font-size-s: 12px;
 $font-size-m: 16px;
 $font-size-l: 24px;
@@ -14,6 +14,7 @@ $font-size-l: 24px;
 $color-font: #ece9e3;
 $color-primary: #ffa500;
 $color-black: #002e63;
+$color-text: #212427;
 
 //width
 $width-s: 1px;
@@ -63,14 +64,6 @@ ul{
 a:-webkit-any-link {
     text-decoration: none;
 }
-
-
-
-
-
-
-
-
 
 a:-webkit-any-link {
     

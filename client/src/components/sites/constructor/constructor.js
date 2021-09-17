@@ -1,4 +1,3 @@
-
 export class places {
     constructor(type, wifi, lenguaje, food, img, name, city, id) {
       this.name = name;
@@ -10,5 +9,4 @@ export class places {
       this.img = img;
       this.food = food;
     }
-
 }

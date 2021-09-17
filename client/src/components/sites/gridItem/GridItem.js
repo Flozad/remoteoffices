@@ -14,7 +14,7 @@ export function GridItem(props) {
                     {key}
                     </h3>
                     <div className='roundedRectangle'>
-                        <i class="fa fa-coffee"></i>
+                        <i className="fa fa-coffee"></i>
                         <div>{props[key]}</div>
                     </div>
                 </div>
@@ -25,7 +25,3 @@ export function GridItem(props) {
        </div>
     );
 }
-
-
-
-

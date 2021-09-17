@@ -1,4 +1,3 @@
-
 import './body.scss'
 import React from 'react';
 

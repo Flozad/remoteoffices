@@ -8,42 +8,41 @@
     height: fit-content;
 }
 
-.ubicacion{
-    text-align: right;
-    font-family: $font-primary;
-    font-weight: 400;
-    padding-top: 1%;
-    font-size: 1.5vw;
-
-}
-
 .grid{
-    column-count: 6;
-    column-gap: 1vw;
-    row-gap: 2vw;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15vw, 1fr));
+    column-gap: 1.5rem;
+    row-gap: 1.5rem;;
     padding-left: -1.5%;
-    
-
 }
 
 .item {
-    height: 16vw;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(3, 8, 20, 0.1) 0px 0.15rem 0.5rem, rgba(2, 8, 20, 0.1) 0px 0.075rem 0.175rem;
+    height: 100%;
+    width: 100%;
     border-radius: 1vw;
-    -webkit-box-shadow: 7px 7px 10px -9px #cccccc; 
-    box-shadow: 10px 10px 10px -5px #cccccc;
-    margin-bottom: 1vw;
-    background-color: transparent;
+    transition: all 200ms;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     border: 0.005vw solid #cccccc;
 }
 
 .item:hover {
-    filter: invert(20%);
+    margin: -0.4vw;
     -webkit-box-shadow: 7px 7px 10px -9px #cccccc; 
     box-shadow: 14px 14px 14px -7px #cccccc;
 }
 
 
 .placeImg {
+    
     border-radius: 0.5vw;
     max-width: 90%;
     max-height: 90%;
@@ -53,11 +52,15 @@
     
 }
 
+.item:hover .placeImg{
+    transform: scale(1.04);
+}
+
 .name{
     font-size: 1.5vw;
     letter-spacing: 0.06vw;
-    color: #212427;
-    font-family: 'Oswald'; 
+    color: $color-text;
+    font-family: $font-primary; 
     font-weight: normal;
     text-shadow: 0px 2px 2px rgba(255, 255, 255, 0);
     padding-left: 1vw;
@@ -65,12 +68,12 @@
 }
 
 .city{
-    color: #212427;
+    color: $color-text;
     letter-spacing: 0.02vw;
     font-size: 0.9vw;
     text-align: left;
     padding-left: 1vw;
-    font-family: 'Roboto';
+    font-family: $font-secondary;
     text-shadow: 0px 2px 2px rgba(255, 255, 255, 0);
 }
 
@@ -78,7 +81,7 @@
     color: grey;
     font-weight: 100;
     font-size: 1.2vw;
-    font-family: 'Roboto';
+    font-family: $font-secondary;
     padding-right: 1vw;
 }
 
@@ -91,17 +94,7 @@
     margin-bottom: -2vw;
 }
 
-.slogan{
-    width: fit-content;
-    margin-top: 3vw;
-    font-weight: 500;
-    color: #212427;
-    text-align: left;
-    padding-left: 2vw;
-    font-size: 5vw;
-    font-family: 'Oswald'; 
-    
-}
+
 
 .topBar{
     justify-content: space-evenly;
@@ -115,58 +108,38 @@
 }
 
 @media (max-width: 992px) {
+
     .grid{
-        column-count: 4;
+        grid-template-columns: repeat(auto-fill, minmax(20vw, 1fr));
     }
+    
+    .placeImg{
+        border-radius: 1vw;
+    }
+
+    .item{
+        border-radius: 2vw;
+    }
+
+    .name{
+        font-size: 2vw;
+    }
+
     .city{
-        font-size: 1.5vw;       
+        font-size: 1.5vw;
     }
-    
+
     .ranking{
-        font-size: 1.9vw;
-    }
-    
-    .item {
-        height: 20vw;
-        
+        font-size: 2.5vw;
     }
 
 }
 
 @media (max-width: 768px) {
     .grid{
-        column-count: 2;
-        margin-left: -5.5%;
+        grid-template-columns: repeat(auto-fill, minmax(28vw, 1fr));
     }
 
-    .name{
-        margin-top: -3vw;
-        font-size: 5vw;
-        padding-left: 3vw;
-    }
-
-    .city{
-        font-size: 2.5vw; 
-        padding-left: 3vw;      
-    }
-
-    .ranking{
-        font-size: 3.5vw;
-        padding-right: 3vw;
-    }
-
-    .item{
-        height: 50vw;
-        border-radius: 2.5vw;
-        margin-bottom: 2.5vw;
-        margin-right: 2vw;
-    }
-
-    .placeImg {
-        margin-top: 2vw;
-        border-radius: 1.5vw;   
-    }
-    
     
 }
 
@@ -175,9 +148,7 @@
 }
 
 @media (max-width: 360px) {
-    .grid{
-        margin-left: -9.5%;
-    }
+    
 }
 
 @media (max-width: 360px) {

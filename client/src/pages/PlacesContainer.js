@@ -1,6 +1,5 @@
 import React from 'react'
 import { Helmet } from 'react-helmet';
-import { Link } from "react-router-dom";
 import NavBar from '../components/navbar/NavBar.js'
 import GridOptions from '../components/sites/GridOptions.js';
 import { PlacesBox } from '../components/sites/PlacesBox';
@@ -22,10 +21,8 @@ function PlacesContainer() {
         <title>{place[0].name}</title>
         <meta name="description" content="{smallText}"  />
       </Helmet>
-      <Link to ={`/`} >
       <NavBar/>
       <GridOptions/>
-      </Link>
       <div  className='placeContainer'>
         <PlacesBox 
         img = {place[0].img}
