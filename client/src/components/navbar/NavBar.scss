@@ -19,17 +19,17 @@ button{
     top: 0;
     width: 100%;
     position: absolute;
-    z-index: 4;
+    z-index: 0;
     background-color:  blanchedalmond;
     opacity: 0.2;
 }
 
 .navBarBackgroundImage {
     width: 100%;
+    height: 100vh;
     position: relative;
     filter: saturate(100%);
-    background: linear-gradient(to top, black 70%,rgba(255,255,255,0) 80%);
-    z-index:2;
+    z-index:0;
 }
 
 .logo{
@@ -39,7 +39,7 @@ button{
     border: 1px solid #000000;
     height: 5vw;
     border-radius: 15%;
-    z-index:5;
+    z-index: 1;
 }
 
 .hamburger{
@@ -51,6 +51,7 @@ button{
 
 .slogan{
     left: 4vw;
+    bottom: 6vw;
     position: absolute;
     font-weight: 500;
     color: $color-font;
@@ -59,7 +60,7 @@ button{
     letter-spacing: 0.3vw;
     font-size: 9vw;
     font-family: $font-primary; 
-    z-index:3;
+    z-index: 1;
 }
 
 .ubicacion{
@@ -70,5 +71,102 @@ button{
     font-family: $font-secondary;
     font-size: 2vw;
     font-weight: 800;
-    z-index:3;
+    z-index: 1;
+}
+
+@media (max-width: 1300px) {
+
+    .navBarBackgroundImage {
+        width: auto;
+        height: 100vh;
+        position: relative;
+        filter: saturate(100%);
+        z-index:0;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .slogan{
+        font-size: 13vw;
+        bottom: 9vw;
+    }
+
+    .ubicacion{
+        font-size: 7vw;
+        bottom: 3vw;
+    }
+
+    
+}
+
+//arrow svg
+$base: 2vw;
+
+.container-chevron {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 100vh;
+ z-index: 1;
+}
+
+.chevron {
+  position: absolute;
+  right: 5vw;
+  bottom: 22vw;
+  width: $base * 3.5;
+  height: $base * 0.8;
+  opacity: 0;
+  transform: scale(0.3);
+  animation: move-chevron 3s ease-out infinite;
+  z-index: 1;
+}
+
+.chevron:first-child {
+  animation: move-chevron 3s ease-out 1s infinite;
+}
+
+.chevron:nth-child(2) {
+  animation: move-chevron 3s ease-out 2s infinite;
+}
+
+.chevron:before,
+.chevron:after {
+ content: '';
+ position: absolute;
+ top: 0;
+ height: 100%;
+ width: 50%;
+ background: #2c3e50;
+}
+
+.chevron:before {
+ left: 0;
+ transform: skewY(30deg);
+}
+
+.chevron:after {
+ right: 0;
+ width: 50%;
+ transform: skewY(-30deg);
+}
+
+@keyframes move-chevron {
+ 25% {
+  opacity: 1;
+	}
+ 33% {
+  opacity: 1;
+  transform: translateY($base * 3.8);
+ }
+ 66% {
+  opacity: 1;
+  transform: translateY($base * 5.2);
+ }
+ 100% {
+  opacity: 0;
+  transform: translateY($base * 8) scale(0.5);
+ }
 }

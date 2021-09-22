@@ -14,7 +14,7 @@ function Places(props) {
                         <h3 className="city">{props.city}</h3>
                         <h3 className="ranking">{props.rating}</h3>
                     </div>
-                    <h2 className="name" itemprop="name">{props.name}</h2>
+                    <h2 className="name" itemProp="name">{props.name}</h2>
                     
                 </div> 
                 

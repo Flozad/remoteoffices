@@ -2,6 +2,7 @@ import React, {useEffect, useContext} from 'react';
 import './body.scss'
 import Places from './Places.js'
 import { PlacesContext } from '../../context/PlacesContext';
+import { Link } from 'react-router-dom';
 
 function GridOptions() {
 
@@ -14,7 +15,7 @@ function GridOptions() {
         }, []);
         
         return (
-            <div className='body'>       
+        <div className='body'>       
             <ul className='grid'>
             {
                 placesList.places.data !== undefined ? placesList.places.data.map((place) => (
@@ -27,6 +28,9 @@ function GridOptions() {
                 />
             )): <div></div>}
             </ul>
+            <Link to={"./"}>
+                <div className="to-top">Subir</div>
+            </Link>
         </div>
     );
 }

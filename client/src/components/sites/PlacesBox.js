@@ -27,29 +27,28 @@ export function PlacesBox(props) {
 
 
     return (
-            <div className='blurBack'>
                 <div className='places'>
-                <img className='imgItem' src= {placeSelected.img} alt= {placeSelected.nombre}></img>
-                <div>
-                    <ItemHeader
-                        city = {placeSelected.city}
-                        country = {placeSelected.country}
-                        name = {placeSelected.name}
-                        ranking = {placeSelected.ranking}
-                    />
-              
-                   <GridItem
-                        name = {placeSelected.name} 
-                        city = {placeSelected.city} 
-                        id = {placeSelected.id}               
-                        type = {placeSelected.type}
-                        wifi = {placeSelected.wifi}
-                        lenguaje = {placeSelected.lenguaje}
-                        food = {placeSelected.food}
-                    />
-                   
+                    
+                        <img className='imgItem' src= {placeSelected.img} alt= {placeSelected.nombre}></img>
+                        <div>
+                            <ItemHeader
+                                city = {placeSelected.city}
+                                country = {placeSelected.country}
+                                name = {placeSelected.name}
+                                ranking = {placeSelected.ranking}
+                            />
+                    <div className="gridContainer">
+                        <GridItem
+                                name = {placeSelected.name} 
+                                city = {placeSelected.city} 
+                                id = {placeSelected.id}               
+                                type = {placeSelected.type}
+                                wifi = {placeSelected.wifi}
+                                lenguaje = {placeSelected.lenguaje}
+                                food = {placeSelected.food}
+                            />
+                        </div>
+                    </div>
                 </div>
-            </div>
-            </div>
     );
 }

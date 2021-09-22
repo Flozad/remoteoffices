@@ -30,7 +30,7 @@ export default function Hamburger({ isOpen }){
                     transform: ${ isOpen ? 'rotate(45deg)' : 'rotate(0)'};
                 }
                 .burger2{
-                    transform: ${ isOpen ? 'translateX(100%)' : 'translateX(0)'};
+                    transform: ${ isOpen ? 'translateX(-100%)' : 'translateX(0)'};
                     opacity: ${ isOpen ? 0 : 1};
                 }
                 .burger3{

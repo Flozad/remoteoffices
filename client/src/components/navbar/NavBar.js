@@ -29,6 +29,11 @@ function NavBar() {
                 <span className='slogan'>Hacela <br/> NUESTRA oficina</span>
                 <div className='ubicacion'>Buenos Aires, Argentina</div>
                 {/* <SearchBar/> */}
+                <div className="container-chevron">
+                    <div className="chevron"></div>
+                    <div className="chevron"></div>
+                    <div className="chevron"></div>
+                </div>
             </div>   
             </nav>
           

@@ -3,8 +3,12 @@ import { Helmet } from 'react-helmet';
 import NavBar from '../components/navbar/NavBar.js'
 import GridOptions from '../components/sites/GridOptions.js';
 import { PlacesBox } from '../components/sites/PlacesBox';
+import { Link } from 'react-router-dom';
+
 
 function PlacesContainer() {
+
+  
 
   const place = [
     {
@@ -21,15 +25,12 @@ function PlacesContainer() {
         <title>{place[0].name}</title>
         <meta name="description" content="{smallText}"  />
       </Helmet>
+      <Link to={'./'}>
       <NavBar/>
-      <GridOptions/>
+      <GridOptions />
+      </Link>
       <div  className='placeContainer'>
-        <PlacesBox 
-        img = {place[0].img}
-        name = {place[0].name} 
-        city = {place[0].city} 
-        id = {place[0].id} 
-        />
+        <PlacesBox />
       </div>
       
       
