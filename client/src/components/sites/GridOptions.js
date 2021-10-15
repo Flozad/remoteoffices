@@ -1,13 +1,15 @@
-import React, {useEffect, useContext} from 'react';
+import React, {useEffect, useContext, useState} from 'react';
 import './body.scss'
+import './searchBar.scss'
 import Places from './Places.js'
 import { PlacesContext } from '../../context/PlacesContext';
 import { Link } from 'react-router-dom';
+import JSONDATA from '../../assets/prueba.json'
 
 function GridOptions() {
 
         const placesList = useContext(PlacesContext);
-
+        const [searchTerm,setSearchTerm] = useState('');
 
         useEffect(() => {    
             placesList.updatePlaces()
@@ -15,8 +17,46 @@ function GridOptions() {
         }, []);
         
         return (
-        <div className='body'>       
+        <div className='body'>
+                <div>
+                    <form className='form1' action="">
+                    <input className='input1' type="text" placeholder="search..." onChange={e=>setSearchTerm(e.target.value)} />
+                    <i className="fa fa-search"></i>
+                    </form>
+                </div>
+                <Link to={'./qr'}>QR</Link>
+                <div className="menu">
+                    <button onClick={e=>setSearchTerm("$")}>Barato 🧾</button>
+                    <button onClick={e=>setSearchTerm("$$")}>Promedio 💰</button>
+                    <button onClick={e=>setSearchTerm("$$$")}>Lujoso 🤑</button>
+                </div>
+                
             <ul className='grid'>
+            {JSONDATA.filter((val)=>{
+                if(searchTerm === ""){
+                return val
+                }
+                else if(val.name.toLowerCase().includes(searchTerm.toLowerCase())){
+                return val;
+                }
+                else if(val.city.toLowerCase().includes(searchTerm.toLowerCase())){
+                return val;
+                }
+                else if(val.cost.toLowerCase().includes(searchTerm.toLowerCase())){
+                return val;
+                }
+
+            }).map((val,key)=>{
+                return <Places
+                img = {val.img}
+                    name = {val.name} 
+                    city = {val.city} 
+                    id = {val.id}
+                    rating = {val.rating}
+                >{val.name} </Places>
+            })}
+            
+            
             {
                 placesList.places.data !== undefined ? placesList.places.data.map((place) => (
                 <Places

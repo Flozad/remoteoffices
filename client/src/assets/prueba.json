@@ -1,0 +1,3304 @@
+
+[
+    {
+      "id": 1,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Café Tortoni",
+      "rating": 4.5,
+      "amount": "25,091",
+      "cost": "$$",
+      "city": "Av. de Mayo 825",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "La Recoleta Panadería  Café",
+      "rating": 4.1,
+      "amount": 446,
+      "cost": "$$",
+      "city": "Charcas 2902",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rosso cafe argentina",
+      "rating": 4.5,
+      "amount": 377,
+      "cost": "$$",
+      "city": "Tte. Gral. Juan Domingo Perón 731",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cuervo Café",
+      "rating": 4.6,
+      "amount": "1,666",
+      "cost": "$$",
+      "city": "El Salvador 4580",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pastelería El Progreso",
+      "rating": 4.3,
+      "amount": 337,
+      "cost": "",
+      "city": "Av. Santa Fe 2820",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Usina Cafetera",
+      "rating": 4.4,
+      "amount": "1,905",
+      "cost": "$$",
+      "city": "Beruti 2751",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "La Biela",
+      "rating": 4.2,
+      "amount": "7,805",
+      "cost": "$$$",
+      "city": "Av. Pres. Manuel Quintana 596",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Delicious Café",
+      "rating": 4.4,
+      "amount": 920,
+      "cost": "$$",
+      "city": "Laprida 2015",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bonafide Billinghurst",
+      "rating": 4,
+      "amount": 297,
+      "cost": "$$",
+      "city": "Billinghurst 2202",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "TUO TEMPO",
+      "rating": 4.3,
+      "amount": 768,
+      "cost": "$$",
+      "city": "Gral. Lucio Norberto Mansilla 2493",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 13,
+      "name": "El Olmo",
+      "rating": 3.7,
+      "amount": "2,481",
+      "cost": "$$",
+      "city": "Av. Santa Fe 2502",
+      "time": "Abierto hasta 03:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Tolón Café",
+      "rating": 4,
+      "amount": "4,449",
+      "cost": "$$",
+      "city": "Av. Santa Fe 3200",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Negro",
+      "rating": 4.6,
+      "amount": "1,340",
+      "cost": "$$",
+      "city": "Suipacha 637",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Café de los Angelitos",
+      "rating": 4.4,
+      "amount": "6,291",
+      "cost": "",
+      "city": "Avenida Rivadavia 2100 (esq, Rincón",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 17,
+      "name": "I Love Café",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Rodríguez Peña 1714",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 18,
+      "name": "San Vicente cafe bar",
+      "rating": 4.9,
+      "amount": 11,
+      "cost": "",
+      "city": "Av. Pueyrredón 1357",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Tienda de Café",
+      "rating": 4.1,
+      "amount": "3,710",
+      "cost": "$$",
+      "city": "Av. Santa Fe 1806",
+      "time": "Abierto hasta 22:30",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Lattente",
+      "rating": 4.4,
+      "amount": "1,441",
+      "cost": "$$",
+      "city": "Thames 1891",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 21,
+      "name": "CAFÉ DE QUARTIER",
+      "rating": 4,
+      "amount": 340,
+      "cost": "$$",
+      "city": "Arenales 2802",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 22,
+      "name": "All Saints Cafe",
+      "rating": 4.4,
+      "amount": "1,568",
+      "cost": "$$",
+      "city": "Av. Corrientes 802",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Café Buenos Aires",
+      "rating": 3.7,
+      "amount": 28,
+      "cost": "",
+      "city": "Adolfo Alsina 1600",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Full city Coffee House & Roasters",
+      "rating": 4.4,
+      "amount": "1,751",
+      "cost": "$$",
+      "city": "Thames 1535",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Bogotá",
+      "rating": 4.3,
+      "amount": "1,004",
+      "cost": "$$",
+      "city": "Montevideo 1300",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Mulata café de Especialidad",
+      "rating": 4.4,
+      "amount": 349,
+      "cost": "$$",
+      "city": "Guatemala 4602",
+      "time": "Abierto hasta 19:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Café Parisien",
+      "rating": 3.9,
+      "amount": 976,
+      "cost": "$$",
+      "city": "Lavalle 999",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 30,
+      "name": "El Gato Negro",
+      "rating": 4.4,
+      "amount": "7,141",
+      "cost": "$$",
+      "city": "Av. Corrientes 1669",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Bonafide",
+      "rating": 4.1,
+      "amount": 498,
+      "cost": "$$",
+      "city": "De la Cárcova",
+      "time": "Abierto hasta 20:30",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Lobo Café Palermo",
+      "rating": 4,
+      "amount": "1,304",
+      "cost": "$$$",
+      "city": "BML, Honduras 4730",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 33,
+      "name": "London city",
+      "rating": 4.4,
+      "amount": "10,070",
+      "cost": "$$",
+      "city": "Av. de Mayo 599",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Coffee Town",
+      "rating": 3.9,
+      "amount": 719,
+      "cost": "$$",
+      "city": "Bolívar 976",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Vive Café",
+      "rating": 4.7,
+      "amount": 873,
+      "cost": "$",
+      "city": "costa Rica 5722",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Café Martínez",
+      "rating": 4.1,
+      "amount": 684,
+      "cost": "$$",
+      "city": "Av. Córdoba 2677",
+      "time": "Abierto hasta 20:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Novo Café",
+      "rating": 3.9,
+      "amount": 329,
+      "cost": "$$",
+      "city": "Junín 698",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 38,
+      "name": "El Mejor Café",
+      "rating": 4.6,
+      "amount": 11,
+      "cost": "",
+      "city": "Uruguay 14",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Martina Fondues",
+      "rating": 4.2,
+      "amount": 509,
+      "cost": "$$",
+      "city": "Agüero 1891",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Café Martínez",
+      "rating": 3.9,
+      "amount": "1,951",
+      "cost": "$$",
+      "city": "Av. Corrientes 3799",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Negro Cueva de Café",
+      "rating": 4.5,
+      "amount": "1,025",
+      "cost": "$$",
+      "city": "Marcelo Torcuato de Alvear 790",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Delicity Ecuador",
+      "rating": 3.9,
+      "amount": 714,
+      "cost": "$$",
+      "city": "Av. Santa Fe 2601",
+      "time": "Abierto hasta 20:30",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Café Martínez",
+      "rating": 4.2,
+      "amount": "1,545",
+      "cost": "$$",
+      "city": "Av. Callao 858",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 44,
+      "name": "flat&white",
+      "rating": 4.4,
+      "amount": 566,
+      "cost": "$$",
+      "city": "Cerrito 1224",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 47,
+      "name": "LAB. Training Center & Coffee Shop",
+      "rating": 4.4,
+      "amount": "1,460",
+      "cost": "$$",
+      "city": "Humboldt 1542",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Coco Café",
+      "rating": 4,
+      "amount": "2,200",
+      "cost": "$$",
+      "city": "Cabello 3794",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 49,
+      "name": "La Noire Café",
+      "rating": 4.4,
+      "amount": 747,
+      "cost": "$$",
+      "city": "CMI, Bonpland 1173",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Negro Cueva de Café",
+      "rating": 4.6,
+      "amount": 315,
+      "cost": "$$",
+      "city": "Av. Córdoba 359",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 51,
+      "name": "All Saints Cafe",
+      "rating": 3.6,
+      "amount": 63,
+      "cost": "",
+      "city": "Alto Palermo Shopping, Av. Santa Fe 3253",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Harper Juice & Coffee",
+      "rating": 4.3,
+      "amount": 726,
+      "cost": "$$",
+      "city": "Av. Pueyrredón 1782",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Desayuno",
+      "rating": 4.9,
+      "amount": 7,
+      "cost": "",
+      "city": "Rodríguez Peña 1291",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Café Martínez",
+      "rating": 4,
+      "amount": "1,720",
+      "cost": "$$",
+      "city": "Uruguay 463",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Alvear Café",
+      "rating": 4.7,
+      "amount": 49,
+      "cost": "",
+      "city": "Ayacucho 2027",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Grand Café",
+      "rating": 4.1,
+      "amount": 192,
+      "cost": "$$",
+      "city": "Basavilbaso 1340",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Alma café",
+      "rating": 4.1,
+      "amount": "2,233",
+      "cost": "$$",
+      "city": "Cerrito 304",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Cafetería Uruguay",
+      "rating": 4.5,
+      "amount": 39,
+      "cost": "$$",
+      "city": "Uruguay 485",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 59,
+      "name": "All Saints Cafe",
+      "rating": 4.3,
+      "amount": "2,853",
+      "cost": "$$",
+      "city": "Cdad. de La Paz 2300",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 60,
+      "name": "La Argentina",
+      "rating": 3.8,
+      "amount": 11,
+      "cost": "",
+      "city": "Av. del Libertador 306",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 61,
+      "name": "OL'DAYS  Coffee & Kitchen",
+      "rating": 4.3,
+      "amount": "1,669",
+      "cost": "$$",
+      "city": "Olga Cossettini 1182",
+      "time": "Abierto hasta 21:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Havanna",
+      "rating": 4.2,
+      "amount": "1,055",
+      "cost": "$$",
+      "city": "Av. Callao 199",
+      "time": "Abierto hasta 20:30",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Tónico Café",
+      "rating": 4.7,
+      "amount": 160,
+      "cost": "",
+      "city": "Riobamba 1173",
+      "time": "Cerrado temporalmente",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Bonafide",
+      "rating": 4,
+      "amount": "1,602",
+      "cost": "$$",
+      "city": "Av. Rivadavia 2496",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Establecimiento General de Café",
+      "rating": 4.1,
+      "amount": 389,
+      "cost": "$$",
+      "city": "Lavalle 1701",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Starbucks",
+      "rating": 4.2,
+      "amount": 468,
+      "cost": "$$$",
+      "city": "Vicente López 2050",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Havanna",
+      "rating": 4.1,
+      "amount": "1,943",
+      "cost": "$$",
+      "city": "Av. Corrientes 1225",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Como en Casa",
+      "rating": 3.9,
+      "amount": 715,
+      "cost": "$$",
+      "city": "Laprida 1782",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Barrio Cafetero",
+      "rating": 4.6,
+      "amount": 207,
+      "cost": "",
+      "city": "Florida 833",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 72,
+      "name": "HONORIO Restó & Coffee",
+      "rating": 3.9,
+      "amount": "1,611",
+      "cost": "$$",
+      "city": "Av. Pueyrredón 1501",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Bonafide",
+      "rating": 4.4,
+      "amount": 280,
+      "cost": "$$",
+      "city": "Thames 2215",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Hábito Café",
+      "rating": 4.7,
+      "amount": 852,
+      "cost": "$$",
+      "city": "México 1152",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Buenos Aires Bakery",
+      "rating": 4.3,
+      "amount": 134,
+      "cost": "$$",
+      "city": "Peña 3001",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 76,
+      "name": "Arenales Restó & Coffee",
+      "rating": 4,
+      "amount": 879,
+      "cost": "$$",
+      "city": "Arenales 1201",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Le Blé",
+      "rating": 3.9,
+      "amount": "2,741",
+      "cost": "$$",
+      "city": "Mario Bravo 908",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Tienda de Café",
+      "rating": 4.1,
+      "amount": "2,148",
+      "cost": "$$",
+      "city": "Carlos Pellegrini 341",
+      "time": "Cerrado temporalmente",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Le Caravelle",
+      "rating": 4.5,
+      "amount": 346,
+      "cost": "$$",
+      "city": "Lavalle 726",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Tienda De Café",
+      "rating": 4.1,
+      "amount": "1,662",
+      "cost": "$$",
+      "city": "Av. Elcano 3189",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Cafe",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Jorge Luis Borges 1842",
+      "time": "Abierto hasta 20:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 82,
+      "name": "LAB Tostadores",
+      "rating": 4.7,
+      "amount": 26,
+      "cost": "",
+      "city": "Humboldt 1542",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 83,
+      "name": "FRANCO SPECIALTY COFFEE",
+      "rating": 4.5,
+      "amount": 199,
+      "cost": "",
+      "city": "Pres. Luis Sáenz Peña 18",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Import Coffee Company",
+      "rating": 4.1,
+      "amount": "1,299",
+      "cost": "$$",
+      "city": "Av. Corrientes 499",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 85,
+      "name": "DORINA CAFE",
+      "rating": 4.4,
+      "amount": 656,
+      "cost": "$$",
+      "city": "Nicaragua 4816",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 86,
+      "name": "Bonafide",
+      "rating": 4.1,
+      "amount": 572,
+      "cost": "$$",
+      "city": "Av. Gral. Las Heras 2863",
+      "time": "Abierto hasta 20:15",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 87,
+      "name": "Havanna",
+      "rating": 4.1,
+      "amount": "2,190",
+      "cost": "$$",
+      "city": "Av. Santa Fe 3148",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Tienda De Café",
+      "rating": 4.1,
+      "amount": "1,048",
+      "cost": "$$",
+      "city": "Av. Pueyrredón 1010",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 91,
+      "name": "Café Martínez",
+      "rating": 4.1,
+      "amount": 923,
+      "cost": "$$",
+      "city": "Av. Pres. Roque Sáenz Peña 1141",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 92,
+      "name": "Starbucks",
+      "rating": 4.1,
+      "amount": "1,948",
+      "cost": "$$$",
+      "city": "Jean Jaures 1015",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 93,
+      "name": "Pick & Go Café",
+      "rating": 4.9,
+      "amount": 160,
+      "cost": "",
+      "city": "Defensa 313",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 94,
+      "name": "Surry Hills Coffee",
+      "rating": 4.6,
+      "amount": 723,
+      "cost": "",
+      "city": "Jorge Luis Borges 1842",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 95,
+      "name": "Café colombiano 29 de julio",
+      "rating": 5,
+      "amount": 2,
+      "cost": "",
+      "city": "Lavalle 850",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 96,
+      "name": "Café Valerio",
+      "rating": 4.2,
+      "amount": "2,846",
+      "cost": "$$",
+      "city": "Lavalle 799",
+      "time": "Abierto hasta 02:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 97,
+      "name": "Starbucks",
+      "rating": 4.2,
+      "amount": "2,985",
+      "cost": "$$$",
+      "city": "Av. Córdoba 2348",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 98,
+      "name": "La Argentina",
+      "rating": 3.7,
+      "amount": 142,
+      "cost": "",
+      "city": "Paraguay 1399",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 99,
+      "name": "Havanna",
+      "rating": 3.4,
+      "amount": 126,
+      "cost": "$$",
+      "city": "Vicente López 2050",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 100,
+      "name": "Starbucks",
+      "rating": 4.3,
+      "amount": "2,145",
+      "cost": "$$$",
+      "city": "Av. de Mayo 1300",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 101,
+      "name": "Fika Cafe & Deli",
+      "rating": 4.4,
+      "amount": 22,
+      "cost": "",
+      "city": "Av. Córdoba 421",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Café Urbano",
+      "rating": 4.1,
+      "amount": "1,761",
+      "cost": "$$",
+      "city": "Donado 1901",
+      "time": "Abierto hasta 20:30",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Café Havanna",
+      "rating": 4.2,
+      "amount": 986,
+      "cost": "$$",
+      "city": "Av. Santa Fe 998",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Café Martínez",
+      "rating": 4,
+      "amount": "1,248",
+      "cost": "$$",
+      "city": "Carlos Pellegrini 629",
+      "time": "Cerrado temporalmente",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Café Martínez",
+      "rating": 4.1,
+      "amount": "2,187",
+      "cost": "$$",
+      "city": "Av. Corrientes 450",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Estacion de Cafe",
+      "rating": 4.1,
+      "amount": 14,
+      "cost": "",
+      "city": "BZB, Av. Córdoba 6193",
+      "time": "N/A",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Blue's Café",
+      "rating": 4.5,
+      "amount": "1,055",
+      "cost": "$",
+      "city": "Arenales 2932",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Café Martínez",
+      "rating": 4.1,
+      "amount": "1,512",
+      "cost": "$$",
+      "city": "Raúl Scalabrini Ortiz 306",
+      "time": "Abierto hasta 20:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 109,
+      "name": "ÖSS Kaffe",
+      "rating": 4.6,
+      "amount": "1,741",
+      "cost": "$$",
+      "city": "Franklin D. Roosevelt 1894",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 110,
+      "name": "A la ciudad de Londres",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Av. Hipólito Yrigoyen 599",
+      "time": "N/A",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 113,
+      "name": "Cafeto Espresso Bar",
+      "rating": 4.2,
+      "amount": 254,
+      "cost": "$$",
+      "city": "Güemes 4299",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Bar Café Metro",
+      "rating": 4.2,
+      "amount": 701,
+      "cost": "$$",
+      "city": "528, AAL, Cerrito",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Havanna",
+      "rating": 4.3,
+      "amount": 799,
+      "cost": "$$",
+      "city": "Rodríguez Peña 1205",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 116,
+      "name": "Starbucks",
+      "rating": 4.2,
+      "amount": "3,647",
+      "cost": "$$$",
+      "city": "Av. Callao 1087",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 117,
+      "name": "Starbucks",
+      "rating": 4.2,
+      "amount": "2,204",
+      "cost": "$$$",
+      "city": "Av. Pueyrredón 1761",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Lobo Café Puerto Madero",
+      "rating": 4.1,
+      "amount": "3,060",
+      "cost": "$$$",
+      "city": "Pierina Dealessi 1330",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 119,
+      "name": "Serendipity Coffee and Wine Bar",
+      "rating": 4.6,
+      "amount": 504,
+      "cost": "$$",
+      "city": "Bonpland 1968",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 120,
+      "name": "Arenales Resto Bar",
+      "rating": 4,
+      "amount": 267,
+      "cost": "",
+      "city": "Arenales 2399",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 121,
+      "name": "Bar Lavalle  Café Notable de la Ciudad de Buenos Aires",
+      "rating": 4,
+      "amount": 516,
+      "cost": "$$",
+      "city": "Lavalle 1693",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 122,
+      "name": "Havanna",
+      "rating": 4,
+      "amount": "1,395",
+      "cost": "$$",
+      "city": "Uruguay 695",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 123,
+      "name": "Ninina",
+      "rating": 4.1,
+      "amount": "2,216",
+      "cost": "$$$",
+      "city": "Gorriti 4738",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 124,
+      "name": "Cachafaz Café",
+      "rating": 4.2,
+      "amount": 172,
+      "cost": "",
+      "city": "Galería Pacifico, San Martín 768",
+      "time": "Abierto hasta 19:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 125,
+      "name": "Cafe Rubin",
+      "rating": 5,
+      "amount": 1,
+      "cost": "",
+      "city": "Ugarteche 3800",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 126,
+      "name": "DOC Café",
+      "rating": 4.6,
+      "amount": 140,
+      "cost": "",
+      "city": "Aráoz 645",
+      "time": "Abierto hasta 19:30",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 127,
+      "name": "Café Roma",
+      "rating": 4.4,
+      "amount": "1,191",
+      "cost": "$$",
+      "city": "Olavarría 409",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 128,
+      "name": "Rochy's KCoffee",
+      "rating": 4.7,
+      "amount": 272,
+      "cost": "",
+      "city": "Av. Jujuy 364",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 129,
+      "name": "Chik  Café",
+      "rating": 4.2,
+      "amount": 226,
+      "cost": "$$",
+      "city": "BST, Crisólogo Larralde 1664",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 130,
+      "name": "Casa Do Café Flores",
+      "rating": 4,
+      "amount": 283,
+      "cost": "$$",
+      "city": "Membrillar 66",
+      "time": "Abierto hasta 18:30",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 131,
+      "name": "Coffeeandtearecoleta",
+      "rating": 3.3,
+      "amount": 3,
+      "cost": "",
+      "city": "Arenales 1620",
+      "time": "Abierto hasta 07:45",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 132,
+      "name": "Café Tribunales",
+      "rating": 4.4,
+      "amount": 59,
+      "cost": "",
+      "city": "Uruguay 485",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 133,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 134,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 135,
+      "name": "Café Tribunales",
+      "rating": 4.4,
+      "amount": 59,
+      "cost": "",
+      "city": "Uruguay 485",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 136,
+      "name": "Tienda de Café | Avenida Córdoba 2601",
+      "rating": 3.7,
+      "amount": 61,
+      "cost": "$$",
+      "city": "Av. Córdoba 2601",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 137,
+      "name": "Gaspar Café",
+      "rating": 4.1,
+      "amount": 273,
+      "cost": "$$",
+      "city": "Esmeralda 624",
+      "time": "Cerrado temporalmente",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 138,
+      "name": "The Shelter Coffee",
+      "rating": 4.5,
+      "amount": 931,
+      "cost": "$$",
+      "city": "Arroyo 940",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 139,
+      "name": "Santa Café",
+      "rating": 4.7,
+      "amount": 421,
+      "cost": "",
+      "city": "Moreno 818",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 140,
+      "name": "Doppio",
+      "rating": 3.9,
+      "amount": 522,
+      "cost": "$$",
+      "city": "Gral. Lucio Norberto Mansilla 2801",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 141,
+      "name": "Havanna",
+      "rating": 4.3,
+      "amount": "1,563",
+      "cost": "$$",
+      "city": "Carlos Pellegrini 141",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 142,
+      "name": "Birkin",
+      "rating": 4.2,
+      "amount": "1,493",
+      "cost": "$$",
+      "city": "República Árabe Siria 3061",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 143,
+      "name": "Tostado Café Club  Av. Córdoba",
+      "rating": 4.2,
+      "amount": "2,164",
+      "cost": "$$",
+      "city": "Av. Córdoba 1501",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 144,
+      "name": "San Miguel",
+      "rating": 4,
+      "amount": 352,
+      "cost": "$$",
+      "city": "Av. Pueyrredón 1599",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 145,
+      "name": "Tienda de Café",
+      "rating": 4.1,
+      "amount": "1,240",
+      "cost": "$$",
+      "city": "Raúl Scalabrini Ortiz 2778",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 146,
+      "name": "Tienda de Café",
+      "rating": 4.1,
+      "amount": "1,100",
+      "cost": "$$",
+      "city": "Uruguay 1014",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 147,
+      "name": "Cachafaz Café",
+      "rating": 4,
+      "amount": 53,
+      "cost": "$$",
+      "city": "Pres. José Evaristo Uriburu 1789",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 148,
+      "name": "Padi",
+      "rating": 3.7,
+      "amount": 30,
+      "cost": "",
+      "city": "Av. Corrientes 1660",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 149,
+      "name": "Bilbo Cafe",
+      "rating": 4.2,
+      "amount": "2,313",
+      "cost": "$$",
+      "city": "Dr. Luis Beláustegui 802",
+      "time": "Abierto hasta 21:45",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 150,
+      "name": "La Poesía",
+      "rating": 4.4,
+      "amount": "6,468",
+      "cost": "$$",
+      "city": "Chile 502",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 151,
+      "name": "Cafe puerto blest",
+      "rating": 4.8,
+      "amount": 6,
+      "cost": "",
+      "city": "Thames 1085",
+      "time": "Abierto las 24 horas",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 152,
+      "name": "Natacha Café",
+      "rating": 4.1,
+      "amount": 927,
+      "cost": "$$",
+      "city": "Marcelo Torcuato de Alvear 901",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 153,
+      "name": "The Cavern Buenos Aires",
+      "rating": 4.2,
+      "amount": "2,391",
+      "cost": "$$",
+      "city": "Av. Corrientes 1660",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 154,
+      "name": "Starbucks",
+      "rating": 4,
+      "amount": 941,
+      "cost": "$$$",
+      "city": "Av. Pueyrredón 2501",
+      "time": "Cerrado temporalmente",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 155,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 156,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 157,
+      "name": "Rondó Cafe",
+      "rating": 4.6,
+      "amount": 474,
+      "cost": "",
+      "city": "Uruguay 1048",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 158,
+      "name": "Posta de Café",
+      "rating": 4.3,
+      "amount": 144,
+      "cost": "",
+      "city": "Av. Pres. Roque Sáenz Peña 805",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 159,
+      "name": "Thibon Café Tes",
+      "rating": 4.3,
+      "amount": 139,
+      "cost": "$$",
+      "city": "Montevideo 723",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 160,
+      "name": "Bexi's Food Market  Coffee & Bakery",
+      "rating": 4,
+      "amount": 4,
+      "cost": "",
+      "city": "Av. Pres. Roque Sáenz Peña 1133",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 161,
+      "name": "The Coffee Store",
+      "rating": 3.9,
+      "amount": 411,
+      "cost": "$$",
+      "city": "Marcelo Torcuato de Alvear 499",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 162,
+      "name": "Havanna",
+      "rating": 4,
+      "amount": "1,110",
+      "cost": "$$",
+      "city": "Florida 159",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 163,
+      "name": "Negro Cueva de Café",
+      "rating": 4.6,
+      "amount": 621,
+      "cost": "$$",
+      "city": "Tucumán 1327",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 164,
+      "name": "Import Coffee Company",
+      "rating": 4.4,
+      "amount": 434,
+      "cost": "$$",
+      "city": "Tucumán 1499",
+      "time": "Abierto hasta 18:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 165,
+      "name": "Caffe Tabac",
+      "rating": 4.4,
+      "amount": "3,539",
+      "cost": "$$$",
+      "city": "Av. del Libertador 2300",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 166,
+      "name": "Trippin’ Café",
+      "rating": 4.4,
+      "amount": 222,
+      "cost": "",
+      "city": "Maipú 944",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 167,
+      "name": "La Farmacia Restobar",
+      "rating": 4.2,
+      "amount": "3,287",
+      "cost": "$$",
+      "city": "Av. Directorio 2398",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 168,
+      "name": "Café Florida Street.",
+      "rating": 4.1,
+      "amount": 262,
+      "cost": "$$",
+      "city": "Tucumán 593",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 169,
+      "name": "Cafe Tortoni",
+      "rating": 4.5,
+      "amount": 27,
+      "cost": "",
+      "city": "Av. Rivadavia 801883",
+      "time": "N/A",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 170,
+      "name": "Madrid Café.",
+      "rating": 5,
+      "amount": 2,
+      "cost": "",
+      "city": "Cerrito 462",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 171,
+      "name": "Coffe House",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Ulla Ulla 80",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 172,
+      "name": "Starbucks",
+      "rating": 4.3,
+      "amount": "2,646",
+      "cost": "$$$",
+      "city": "Cerrito 336",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 173,
+      "name": "Madison Café",
+      "rating": 4.2,
+      "amount": 698,
+      "cost": "$$$",
+      "city": "Av. Córdoba 550",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 174,
+      "name": "The Coffee Store",
+      "rating": 4.3,
+      "amount": 190,
+      "cost": "",
+      "city": "Talcahuano 970",
+      "time": "Cerrado temporalmente",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 175,
+      "name": "El Café de Marco",
+      "rating": 4.5,
+      "amount": 661,
+      "cost": "$$",
+      "city": "Tte. Gral. Juan Domingo Perón 1259",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 176,
+      "name": "Café Martínez",
+      "rating": 4.1,
+      "amount": 833,
+      "cost": "$$",
+      "city": "Av. Rivadavia 5702",
+      "time": "Abierto hasta 19:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 177,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 178,
+      "name": "Bon Marché",
+      "rating": 4.3,
+      "amount": 49,
+      "cost": "",
+      "city": "Patio Bullrich, Posadas 1245",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 179,
+      "name": "Daily Coffee",
+      "rating": 4.3,
+      "amount": 248,
+      "cost": "$$",
+      "city": "Posadas 1407",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 180,
+      "name": "Starbucks",
+      "rating": 4.2,
+      "amount": "2,300",
+      "cost": "$$$",
+      "city": "Honduras 5550",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 181,
+      "name": "Cortázar",
+      "rating": 4.3,
+      "amount": "3,899",
+      "cost": "$$",
+      "city": "José A. Cabrera 3797",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 182,
+      "name": "Petit Colon",
+      "rating": 4.4,
+      "amount": "4,423",
+      "cost": "$$$",
+      "city": "AAK, Libertad 505",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 183,
+      "name": "Tienda de Café",
+      "rating": 4.1,
+      "amount": "1,590",
+      "cost": "$$",
+      "city": "Av. de Mayo 799",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 184,
+      "name": "Deli cafe",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Av. Federico Lacroze 2109",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 185,
+      "name": "Luba Café Store",
+      "rating": 4.3,
+      "amount": 398,
+      "cost": "$$",
+      "city": "Ayacucho 1412",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 186,
+      "name": "Café Martínez",
+      "rating": 4,
+      "amount": "1,181",
+      "cost": "$$",
+      "city": "Av. Cabildo 1253",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 187,
+      "name": "La Perla",
+      "rating": 3.8,
+      "amount": 371,
+      "cost": "$$",
+      "city": "Av. Don Pedro de Mendoza 1899",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 188,
+      "name": "Stracqua cafe",
+      "rating": 4.8,
+      "amount": 114,
+      "cost": "",
+      "city": "José A. Cabrera 5939",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 189,
+      "name": "Café Martínez  Núñez",
+      "rating": 4.1,
+      "amount": "1,596",
+      "cost": "$$",
+      "city": "Av. Cabildo 3565",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 190,
+      "name": "ideal",
+      "rating": 4,
+      "amount": 94,
+      "cost": "",
+      "city": "Suipacha 384",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 191,
+      "name": "TEATRO BUENOS AIRES / TOSTADO Cafe Club",
+      "rating": 4.2,
+      "amount": 971,
+      "cost": "",
+      "city": "Ciudad Autónoma de Buenos Aires AR, Av. Corrientes 1699",
+      "time": "N/A",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 192,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 193,
+      "name": "Bonafide",
+      "rating": 4.1,
+      "amount": 622,
+      "cost": "$$",
+      "city": "Av. San Juan 3901",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 194,
+      "name": "Mar Azul",
+      "rating": 4.3,
+      "amount": 412,
+      "cost": "$",
+      "city": "Tucumán 1700",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 195,
+      "name": "Ouro Preto",
+      "rating": 4.1,
+      "amount": "2,525",
+      "cost": "$$",
+      "city": "Av. Corrientes 1301",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 196,
+      "name": "Café Pizza & Restaurant Los Inmortales",
+      "rating": 4.3,
+      "amount": "3,903",
+      "cost": "$$",
+      "city": "Av. Corrientes 1369",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 197,
+      "name": "Exedra",
+      "rating": 4.1,
+      "amount": "3,206",
+      "cost": "$$",
+      "city": "Carlos Pellegrini 807",
+      "time": "Abierto hasta 02:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 198,
+      "name": "Bar Roma",
+      "rating": 4.5,
+      "amount": 783,
+      "cost": "$",
+      "city": "Dr. Tomás Manuel de Anchorena 806",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 199,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 200,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 201,
+      "name": "La Giralda",
+      "rating": 3.9,
+      "amount": 792,
+      "cost": "$$",
+      "city": "Av. Corrientes 1453",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 202,
+      "name": "Alma Cafe",
+      "rating": 4,
+      "amount": 530,
+      "cost": "",
+      "city": "Rosario Vera Peñaloza 497",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 203,
+      "name": "Piccolo Caffe",
+      "rating": 3.9,
+      "amount": 560,
+      "cost": "$$",
+      "city": "Cuba 2899",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 204,
+      "name": "Café Rivas",
+      "rating": 4.4,
+      "amount": "1,559",
+      "cost": "$$",
+      "city": "Estados Unidos 302",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 205,
+      "name": "Starbucks",
+      "rating": 4.3,
+      "amount": "2,458",
+      "cost": "$$$",
+      "city": "Av. Corrientes 845",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 206,
+      "name": "Café Crespín",
+      "rating": 4.4,
+      "amount": "3,476",
+      "cost": "$$",
+      "city": "Vera 699",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 207,
+      "name": "Café Balzac",
+      "rating": 4.8,
+      "amount": 87,
+      "cost": "",
+      "city": "Ayacucho 706",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 208,
+      "name": "Alameda",
+      "rating": 4.2,
+      "amount": "4,357",
+      "cost": "$$",
+      "city": "Av. de Mayo 1201",
+      "time": "Abierto hasta 02:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 209,
+      "name": "Tostado Café Club  Obelisco",
+      "rating": 4.4,
+      "amount": "3,288",
+      "cost": "$$",
+      "city": "Av. Corrientes 999",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 210,
+      "name": "Rapanui",
+      "rating": 4.6,
+      "amount": "12,155",
+      "cost": "",
+      "city": "Arenales 2302",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 211,
+      "name": "Coco Café",
+      "rating": 4,
+      "amount": 916,
+      "cost": "$$",
+      "city": "Demaría 4615",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 212,
+      "name": "Sara Cafe",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Larrea 1067",
+      "time": "N/A",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 213,
+      "name": "Starbucks",
+      "rating": 4.2,
+      "amount": "2,789",
+      "cost": "$$$",
+      "city": "Av. Santa Fe 1302",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 214,
+      "name": "Pan de Queso Brasil",
+      "rating": 4.9,
+      "amount": 342,
+      "cost": "$",
+      "city": "ABK, Montevideo 573",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 215,
+      "name": "Pride Cafe",
+      "rating": 4.4,
+      "amount": 767,
+      "cost": "$$",
+      "city": "Balcarce 869",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 216,
+      "name": "Matteo Café Deli Market",
+      "rating": 4.2,
+      "amount": "3,096",
+      "cost": "$$",
+      "city": "Av. José María Moreno 124",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 217,
+      "name": "Un Clásico en Cafés y Tés",
+      "rating": 4.6,
+      "amount": 79,
+      "cost": "",
+      "city": "Uruguay 14",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 218,
+      "name": "Tobas Café",
+      "rating": 4,
+      "amount": 107,
+      "cost": "",
+      "city": "Av. Pres. Roque Sáenz Peña 624",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 219,
+      "name": "Donato Café",
+      "rating": 4,
+      "amount": 439,
+      "cost": "$$",
+      "city": "Av. Santa Fe 5201",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 220,
+      "name": "Los Galgos Bar",
+      "rating": 4.2,
+      "amount": "5,253",
+      "cost": "$$",
+      "city": "Av. Callao 501",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 221,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 222,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 223,
+      "name": "Bar El Progreso",
+      "rating": 4.2,
+      "amount": 721,
+      "cost": "$",
+      "city": "Av. Montes de Oca 1700",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 224,
+      "name": "Starbucks",
+      "rating": 4.2,
+      "amount": "3,639",
+      "cost": "$$$",
+      "city": "Arenales 3360",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 225,
+      "name": "Cigaló Specialty Coffee",
+      "rating": 4.5,
+      "amount": 388,
+      "cost": "",
+      "city": "Virrey Olaguer y Feliú 3405",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 226,
+      "name": "Starbucks",
+      "rating": 4.1,
+      "amount": "2,835",
+      "cost": "$$$",
+      "city": "Reconquista 383",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 227,
+      "name": "Havanna",
+      "rating": 4.3,
+      "amount": 517,
+      "cost": "$$",
+      "city": "Av. Córdoba 935",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 228,
+      "name": "Hard Rock Cafe Puerto Madero",
+      "rating": 4.4,
+      "amount": "2,041",
+      "cost": "$$$",
+      "city": "Av. Alicia Moreau de Justo 192",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 229,
+      "name": "Bonafide",
+      "rating": 4.2,
+      "amount": 214,
+      "cost": "$$",
+      "city": "Av. Asamblea 701",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 230,
+      "name": "Gros",
+      "rating": 3.9,
+      "amount": 468,
+      "cost": "$$",
+      "city": "Arenales 999",
+      "time": "Abierto hasta 23:30",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 231,
+      "name": "café",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "San Martín 487",
+      "time": "Abierto hasta 20:30",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 232,
+      "name": "Balcarce",
+      "rating": 4.1,
+      "amount": 954,
+      "cost": "$$",
+      "city": "Av. Rivadavia 5500",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 233,
+      "name": "Moksha Coffee & Deli",
+      "rating": 4.1,
+      "amount": 61,
+      "cost": "",
+      "city": "Maipú 825",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 234,
+      "name": "La Casa del Té y Café",
+      "rating": 4.4,
+      "amount": 40,
+      "cost": "",
+      "city": "San José 14",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 235,
+      "name": "Le Blé",
+      "rating": 4.1,
+      "amount": "1,223",
+      "cost": "$$",
+      "city": "Av. San Juan 4200",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 236,
+      "name": "Il Gatto Sucursal Tribunales",
+      "rating": 4,
+      "amount": "2,059",
+      "cost": "$$",
+      "city": "Av. Corrientes 1269",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 237,
+      "name": "Le Blé",
+      "rating": 3.9,
+      "amount": "1,221",
+      "cost": "$$",
+      "city": "Acevedo 799",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 238,
+      "name": "Milion",
+      "rating": 4.1,
+      "amount": "4,535",
+      "cost": "$$$",
+      "city": "Paraná 1048",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 239,
+      "name": "Tostado Café Club  Av. Santa Fé",
+      "rating": 4.2,
+      "amount": "1,920",
+      "cost": "$$",
+      "city": "Av. Santa Fe 909",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 240,
+      "name": "Il Gatto  Obelisco",
+      "rating": 3.9,
+      "amount": "6,367",
+      "cost": "$$",
+      "city": "Av. Corrientes 959",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 241,
+      "name": "Le Blé",
+      "rating": 4.3,
+      "amount": 192,
+      "cost": "$$",
+      "city": "Juana Manso",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 242,
+      "name": "Balcarce",
+      "rating": 3.7,
+      "amount": 241,
+      "cost": "$$",
+      "city": "Crámer 2098",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 243,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 244,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 245,
+      "name": "Plaza Café",
+      "rating": 4.4,
+      "amount": "1,349",
+      "cost": "$$",
+      "city": "Av. Rivadavia 4732",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 246,
+      "name": "Josephina Café",
+      "rating": 4.1,
+      "amount": "1,339",
+      "cost": "$$",
+      "city": "Guido 1532",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 247,
+      "name": "Bar El Federal",
+      "rating": 4.4,
+      "amount": "6,160",
+      "cost": "$$",
+      "city": "Carlos Calvo 599",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 248,
+      "name": "Café Margot",
+      "rating": 4.2,
+      "amount": "7,580",
+      "cost": "$$",
+      "city": "Av. Boedo 857",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 249,
+      "name": "Café La Humedad",
+      "rating": 4.5,
+      "amount": 590,
+      "cost": "$$",
+      "city": "Carlos Calvo 2540",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 250,
+      "name": "Café Cabrales",
+      "rating": 4.5,
+      "amount": 209,
+      "cost": "$$",
+      "city": "Arenales 1558",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 251,
+      "name": "Bonafide",
+      "rating": 3.8,
+      "amount": 409,
+      "cost": "$$",
+      "city": "Sarmiento 654",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 252,
+      "name": "Starbucks",
+      "rating": 4.2,
+      "amount": "1,231",
+      "cost": "$$$",
+      "city": "Av. Pres. Roque Sáenz Peña 885",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 253,
+      "name": "Café Paulin",
+      "rating": 4.4,
+      "amount": "1,608",
+      "cost": "$$",
+      "city": "Sarmiento 635",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 254,
+      "name": "Café Capriatti",
+      "rating": 4,
+      "amount": 663,
+      "cost": "$$",
+      "city": "Av. Corrientes 1302",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 255,
+      "name": "Mazzo café",
+      "rating": 4,
+      "amount": "1,489",
+      "cost": "$$",
+      "city": "Gurruchaga 707",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 256,
+      "name": "Café San Juan",
+      "rating": 4.4,
+      "amount": "2,661",
+      "cost": "$$$",
+      "city": "Av. San Juan 450",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 257,
+      "name": "Bolivar Blondies Bakery Cafe",
+      "rating": 4.6,
+      "amount": 9,
+      "cost": "",
+      "city": "Bolívar 296",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 258,
+      "name": "Starbucks",
+      "rating": 4.1,
+      "amount": "2,473",
+      "cost": "$$$",
+      "city": "Lavalle 1394",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 259,
+      "name": "Take & Coffee",
+      "rating": 4.8,
+      "amount": 71,
+      "cost": "",
+      "city": "San Martín 521",
+      "time": "Abierto hasta 19:30",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 260,
+      "name": "Café Ditali",
+      "rating": 4.1,
+      "amount": "2,128",
+      "cost": "$$",
+      "city": "Maipú 902",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 261,
+      "name": "Nespresso Alto Palermo",
+      "rating": 4.4,
+      "amount": "1,937",
+      "cost": "",
+      "city": "Av. Santa Fe 3253",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 262,
+      "name": "Adorado Bar Nicaragua",
+      "rating": 4.4,
+      "amount": 953,
+      "cost": "$$",
+      "city": "Nicaragua 5856",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 263,
+      "name": "Café Registrado",
+      "rating": 4.6,
+      "amount": 229,
+      "cost": "",
+      "city": "ABC, Tte. Gral. Juan Domingo Perón 4211",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 264,
+      "name": "Hard Rock Cafe",
+      "rating": 3.8,
+      "amount": 624,
+      "cost": "$$$",
+      "city": "Av. costanera Rafael Obligado 1425",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 265,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 266,
+      "name": "Legado Café",
+      "rating": 4.9,
+      "amount": 177,
+      "cost": "",
+      "city": "Viamonte 1649",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 267,
+      "name": "Pizzería Los Inmortales",
+      "rating": 4.4,
+      "amount": "2,711",
+      "cost": "$$",
+      "city": "AAP, Ciudad Autónoma de Buenos Aires AR, Lavalle 746",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 268,
+      "name": "Café Martínez",
+      "rating": 4.1,
+      "amount": 513,
+      "cost": "$$",
+      "city": "Av. Alicia Moreau de Justo 1400",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 269,
+      "name": "Biblos Restó & Coffee",
+      "rating": 4,
+      "amount": "2,717",
+      "cost": "$$",
+      "city": "Av. Santa Fe 1200",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 270,
+      "name": "Starbucks",
+      "rating": 4.3,
+      "amount": "1,434",
+      "cost": "$$$",
+      "city": "Av. Córdoba 975",
+      "time": "Abierto hasta 20:30",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 271,
+      "name": "Café de La \" U ",
+      "rating": 4.1,
+      "amount": "1,766",
+      "cost": "$$",
+      "city": "Av Triunvirato 4801",
+      "time": "Abierto hasta 23:45",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 272,
+      "name": "Café Martinez",
+      "rating": 3.9,
+      "amount": 29,
+      "cost": "$$",
+      "city": "Hospital Británico, Dr. Enrique Finochietto 1696",
+      "time": "Abierto hasta 19:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 273,
+      "name": "Museo Evita Restaurante",
+      "rating": 4.4,
+      "amount": "3,134",
+      "cost": "$$",
+      "city": "Juan María Gutiérrez 3926",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 274,
+      "name": "Tostado café club",
+      "rating": 4,
+      "amount": 4,
+      "cost": "",
+      "city": "OBELISCO Av. Corrientes, Av. 9 de Julio &",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 275,
+      "name": "Le Blé",
+      "rating": 4,
+      "amount": "2,025",
+      "cost": "$$",
+      "city": "Cdad. de La Paz 2701",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 276,
+      "name": "Café San Juan La Cantina",
+      "rating": 4.6,
+      "amount": "3,560",
+      "cost": "$$$",
+      "city": "Chile 474",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 277,
+      "name": "Central de Café",
+      "rating": 3.9,
+      "amount": 43,
+      "cost": "",
+      "city": "ABN Florida Oeste, Esteban Echeverria 1556",
+      "time": "Abierto las 24 horas",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 278,
+      "name": "Le Blé",
+      "rating": 4.2,
+      "amount": 943,
+      "cost": "$$",
+      "city": "CCF, Manuela Pedraza 2196",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 279,
+      "name": "Tostado Café Club  Belgrano",
+      "rating": 4.3,
+      "amount": "5,420",
+      "cost": "$$",
+      "city": "Juramento 2103",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 280,
+      "name": "GOUT CAFE GLUTEN FREE",
+      "rating": 4.3,
+      "amount": "1,092",
+      "cost": "$$",
+      "city": "Juncal 2124",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 281,
+      "name": "Modo Café",
+      "rating": 4.3,
+      "amount": 695,
+      "cost": "$$",
+      "city": "Gabriela Mistral 2502",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 282,
+      "name": "Café El Continente",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Av. Federico Lacroze 1843",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 283,
+      "name": "Victoria Cream",
+      "rating": 4.5,
+      "amount": "1,169",
+      "cost": "$$",
+      "city": "Charcas 3312",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 284,
+      "name": "Café El Continente",
+      "rating": 4.7,
+      "amount": 162,
+      "cost": "",
+      "city": "Av. Jorge Newbery 4028",
+      "time": "Cierra a las 17:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 285,
+      "name": "Chungo",
+      "rating": 4,
+      "amount": "1,045",
+      "cost": "$$",
+      "city": "Humboldt 1906",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 286,
+      "name": "Tienda de Café",
+      "rating": 4.2,
+      "amount": "2,565",
+      "cost": "$$",
+      "city": "Av. Díaz Vélez 5298",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 287,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 288,
+      "name": "Mi Colección de Vinos",
+      "rating": 4.5,
+      "amount": 229,
+      "cost": "$$",
+      "city": "Combate de los Pozos 1129",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 289,
+      "name": "Lavazza",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Avenida del Libertador, 88 Piso 6 1425",
+      "time": "Abierto las 24 horas",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 290,
+      "name": "Josinerias",
+      "rating": 4.8,
+      "amount": 49,
+      "cost": "",
+      "city": "Ciudad Autónoma de Buenos Aires AR, Laprida 1080",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 291,
+      "name": "Gustado's Café",
+      "rating": 4.2,
+      "amount": "1,596",
+      "cost": "$$",
+      "city": "Av. Gaona 1694",
+      "time": "Cerrado temporalmente",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 292,
+      "name": "caffe cat",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "9JW9+HV",
+      "time": "Abierto las 24 horas",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 293,
+      "name": "Tanta Argentina by Gastón Acurio",
+      "rating": 4.5,
+      "amount": "4,271",
+      "cost": "$$",
+      "city": "Esmeralda 938",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 294,
+      "name": "Pottery Coffee & Deli",
+      "rating": 4.3,
+      "amount": 317,
+      "cost": "",
+      "city": "Gorriti 5737",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 295,
+      "name": "Jobs",
+      "rating": 4.3,
+      "amount": "15,171",
+      "cost": "$$",
+      "city": "Arenales 2932",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 296,
+      "name": "カフェ トルトーニ",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Av. de Mayo 825",
+      "time": "N/A",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 297,
+      "name": "La Bolsa de Café",
+      "rating": 4.1,
+      "amount": 395,
+      "cost": "$$",
+      "city": "Av. Rivadavia 6050",
+      "time": "Abierto hasta 18:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 298,
+      "name": "Café Lidoro",
+      "rating": 4.2,
+      "amount": "2,144",
+      "cost": "$$",
+      "city": "Av. Monroe 1497, 1428",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 299,
+      "name": "PADRE Coffee Roasters",
+      "rating": 4.4,
+      "amount": "2,445",
+      "cost": "$$",
+      "city": "Jorge Luis Borges 2008",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 300,
+      "name": "Magari Restó & Café",
+      "rating": 5,
+      "amount": 2,
+      "cost": "",
+      "city": "Esmeralda 470",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 301,
+      "name": "Jolie Bistró",
+      "rating": 4,
+      "amount": "2,622",
+      "cost": "$$",
+      "city": "Conde 2036",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 302,
+      "name": "Preston Ltd Coffee",
+      "rating": "N/A",
+      "amount": "N/A",
+      "cost": "",
+      "city": "Viamonte 1646",
+      "time": "Abierto las 24 horas",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 303,
+      "name": "McCafé",
+      "rating": 3.9,
+      "amount": 20,
+      "cost": "$$",
+      "city": "Dot Baires Shopping, Vedia 3626",
+      "time": "Abierto hasta 22:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 304,
+      "name": "Frida cocina cafe",
+      "rating": 4.1,
+      "amount": "1,527",
+      "cost": "$$",
+      "city": "Av. Cabildo 3698",
+      "time": "Abierto hasta 21:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 305,
+      "name": "ADELA VIntage Cafetería",
+      "rating": 4.4,
+      "amount": "1,164",
+      "cost": "$$",
+      "city": "Río de Janeiro 658 (esquina",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 306,
+      "name": "Vicente López Café & Brunch",
+      "rating": 4.5,
+      "amount": "3,012",
+      "cost": "$$",
+      "city": "BBV, Miguel de Azcuénaga 1110",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 307,
+      "name": "UBU Café",
+      "rating": 4.3,
+      "amount": 427,
+      "cost": "$$",
+      "city": "costa Rica 4560",
+      "time": "Abierto hasta 20:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 308,
+      "name": "La Estancia",
+      "rating": 4.3,
+      "amount": "5,195",
+      "cost": "$$",
+      "city": "Lavalle 941",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 309,
+      "name": "Unibind Argentina",
+      "rating": 4.6,
+      "amount": 10,
+      "cost": "",
+      "city": "Raúl Scalabrini Ortiz 974",
+      "time": "Cierra a las 17:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 310,
+      "name": "Bon Marché",
+      "rating": 4.3,
+      "amount": 49,
+      "cost": "",
+      "city": "Patio Bullrich, Posadas 1245",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 311,
+      "name": "Kainos",
+      "rating": 4.2,
+      "amount": "5,097",
+      "cost": "$$",
+      "city": "Av. Caseros 3301",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 312,
+      "name": "Buenos Aires Restaurant",
+      "rating": 4.2,
+      "amount": 439,
+      "cost": "",
+      "city": "ABC, Carlos Pellegrini 111",
+      "time": "Abierto hasta 23:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 313,
+      "name": "The Coffee Store Avellaneda",
+      "rating": 4.5,
+      "amount": 310,
+      "cost": "$$",
+      "city": "Juan Bautista Palaá 467",
+      "time": "Cerrado temporalmente",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 314,
+      "name": "Café Bakan",
+      "rating": 4.7,
+      "amount": 23,
+      "cost": "",
+      "city": "ITA, Bouchard 2769",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 315,
+      "name": "Los 36 Billares",
+      "rating": 4.4,
+      "amount": "6,521",
+      "cost": "$$",
+      "city": "Av. de Mayo 1271",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 316,
+      "name": "Asociación de Hoteles Restaurantes Confiterías y Cafés",
+      "rating": 4.4,
+      "amount": 43,
+      "cost": "",
+      "city": "Tucumán 1610",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 317,
+      "name": "McCafé",
+      "rating": 4.3,
+      "amount": "1,079",
+      "cost": "$$",
+      "city": "Av. Alicia Moreau de Justo 1150",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 318,
+      "name": "La Biblioteca Café",
+      "rating": 4.3,
+      "amount": 536,
+      "cost": "",
+      "city": "AAQ, Marcelo Torcuato de Alvear 1155",
+      "time": "N/A",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 319,
+      "name": "McCafé",
+      "rating": 3.8,
+      "amount": 8,
+      "cost": "$$",
+      "city": "B1873BOC, Gral. Güemes 897",
+      "time": "Abierto hasta 23:00",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 320,
+      "name": "Kainos",
+      "rating": 4.2,
+      "amount": "1,775",
+      "cost": "$$",
+      "city": "Av. La Plata 701",
+      "time": "Abierto hasta 01:30",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 321,
+      "name": "Lolea Food Market",
+      "rating": 4.3,
+      "amount": 227,
+      "cost": "",
+      "city": "San Martín 774",
+      "time": "Abierto hasta 19:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 322,
+      "name": "Basa",
+      "rating": 4.4,
+      "amount": "1,706",
+      "cost": "$$$$",
+      "city": "Basavilbaso 1328",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 323,
+      "name": "Restaurant Norte",
+      "rating": 4.2,
+      "amount": "1,038",
+      "cost": "$$",
+      "city": "Arenales 2600",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 324,
+      "name": "Marita Adelgaza",
+      "rating": 4.4,
+      "amount": 14,
+      "cost": "",
+      "city": "Lima 131",
+      "time": "Abierto las 24 horas",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 325,
+      "name": "CAPITAL PIZZA",
+      "rating": 4.6,
+      "amount": 58,
+      "cost": "",
+      "city": "Ecuador 1177",
+      "time": "Cerrado",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 326,
+      "name": "McDonald's",
+      "rating": 3.9,
+      "amount": "9,036",
+      "cost": "$$",
+      "city": "6, Av. Corrientes 992",
+      "time": "Abierto hasta 01:00",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    },
+    {
+      "id": 327,
+      "name": "Ciber LavalleVip",
+      "rating": 3.9,
+      "amount": 261,
+      "cost": "",
+      "city": "Lavalle 868",
+      "time": "Abierto las 24 horas",
+      "img": "https://i.postimg.cc/25Vw8Xsc/3.jpg"
+    },
+    {
+      "id": 328,
+      "name": "Churrasquería Buenos Aires",
+      "rating": 4.5,
+      "amount": 372,
+      "cost": "$",
+      "city": "Av. Rivadavia 785",
+      "time": "Cerrado temporalmente",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 329,
+      "name": "RESTAURANTE VICENTE LOPEZ",
+      "rating": 4.6,
+      "amount": "2,218",
+      "cost": "",
+      "city": "Av. Maipú 701",
+      "time": "Abierto hasta 00:00",
+      "img": "https://i.postimg.cc/4xMfjYsK/2.jpg"
+    },
+    {
+      "id": 330,
+      "name": "FABRIC Nikkei Sushi Bar | Complejo Al Rio",
+      "rating": 4.3,
+      "amount": 244,
+      "cost": "$$$",
+      "city": "Av. del Libertador 105",
+      "time": "N/A",
+      "img": "https://i.postimg.cc/qMxCfX5N/coffeshop.jpg"
+    }
+  ]
+  

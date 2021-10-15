@@ -15,14 +15,14 @@ export function PlacesBox(props) {
     useEffect(() => {
         filterPlacesFunction(id)
     }, []);
-
+    
     const filterPlacesFunction = (id) => {
-        const filtredPlace = placesList.places.data.filter(places => {
+        const filtredPlace = null && placesList.places.data.filter(places => {
             console.log(places.id)
             return places.id === id.id
         })
-        setPlaceSelected(filtredPlace[0].data)
-        console.log(filtredPlace[0].data)
+        //setPlaceSelected(filtredPlace[0].data)
+        //console.log(filtredPlace[0].data)
     }
 
 

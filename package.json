@@ -24,6 +24,7 @@
     "@types/cors": "^2.8.12",
     "babel-node": "^0.0.1-security",
     "cors": "^2.8.5",
+    "email-validator": "^2.0.4",
     "express": "^4.17.1",
     "firebase-admin": "^9.11.1"
   }

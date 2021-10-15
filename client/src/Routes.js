@@ -7,7 +7,8 @@ import PlacesProvider from './context/PlacesContext';
 import Contacto from './pages/Contacto';
 import Blog from './pages/Blog';
 import Cultura from './pages/Clutura';
-
+import FrmTable from './pages/FrmTable';
+import QR from './components/sites/QR/QR';
 
 function Routes() {
   return (
@@ -26,9 +27,16 @@ function Routes() {
         <Route exact path = '/cultura'>
           <Cultura/>
         </Route>
+        <Route exact path = '/form'>
+          <FrmTable/>
+        </Route>
+        <Route exact path = '/qr'>
+          <QR/>
+        </Route>
         <Route exact path = '/:id' component={PlacesContainer}>
           <PlacesContainer/>
         </Route>
+        
     </Switch>
     </PlacesProvider>
   </div>

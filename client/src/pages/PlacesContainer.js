@@ -27,7 +27,9 @@ function PlacesContainer() {
       </Helmet>
       <Link to={'./'}>
       <NavBar/>
-      <GridOptions />
+      <div className='relative'>
+        <GridOptions/>
+      </div>
       </Link>
       <div  className='placeContainer'>
         <PlacesBox />
